@@ -1,0 +1,19 @@
+﻿@@||ctui.in^$important,document,~extension
+@@||www.wuxiaworld.com^$important,document,~extension
+@@||creativenovels.com^$important,document,~extension
+@@||app.oberlo.com^$important,document,~extension
+@@||track.aliexpress.com^$important,document,~extension
+@@||www.cursosdesarrolloweb.es^$important,document,~extension
+@@||gloyah.net^$important,document,~extension
+@@||www.wemod.com^$important,document,~extension
+blogdelfotografo.com###custom_html-5 > div.textwidget.custom-html-widget > div.cust_widget_holder > div.cust_widget.lector-vip-1
+mazterize.com###tp-section-left > div.post-content:first-child > div.post-outer.clearfix > div.post_content.entry-content:nth-child(3) > div:first-child > center > button.user.button-green:first-child
+mazterize.com###tp-section-left > div.post-content:first-child > div.post-outer.clearfix > div.post_content.entry-content:nth-child(3) > div:nth-child(17) > center
+@@||52.5.129.153^$important,document,~extension
+@@||www1.ecleneue.com^$important,document,~extension
+@@||boxnovel.com^$important,document,~extension
+@@||www.promods.net^$important,document,~extension
+m.wuxiaworld.co##.app-download, ._riverWinApp, .fadeIn
+@@||my.minecraft.net^$important,document,~extension
+@@||account.mojang.com^$important,document,~extension
+boxnovel.com##div.wrap:first-child > div.body-wrap > header.site-header:first-child > div.adbox:last-child
