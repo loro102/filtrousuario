@@ -11,9 +11,8 @@ mazterize.com###tp-section-left > div.post-content:first-child > div.post-outer.
 mazterize.com###tp-section-left > div.post-content:first-child > div.post-outer.clearfix > div.post_content.entry-content:nth-child(3) > div:nth-child(17) > center
 @@||52.5.129.153^$important,document,~extension
 @@||www1.ecleneue.com^$important,document,~extension
-@@||boxnovel.com^$important,document,~extension
 @@||www.promods.net^$important,document,~extension
 m.wuxiaworld.co##.app-download, ._riverWinApp, .fadeIn
 @@||my.minecraft.net^$important,document,~extension
 @@||account.mojang.com^$important,document,~extension
-boxnovel.com##div.wrap:first-child > div.body-wrap > header.site-header:first-child > div.adbox:last-child
+boxnovel.com##.adbox
