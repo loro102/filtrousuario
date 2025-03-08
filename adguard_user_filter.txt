@@ -16,3 +16,4 @@ m.wuxiaworld.co##.app-download, ._riverWinApp, .fadeIn
 @@||my.minecraft.net^$important,document,~extension
 @@||account.mojang.com^$important,document,~extension
 boxnovel.com##.adbox
+fanmtl.com###chapter-article > section.page-in.content-wrap:nth-child(3) > div.chapter-content:nth-child(2) > div:first-child > div.TPuhiHlg.bA_Dw_NX:last-child
